@@ -1,0 +1,14 @@
+--- !ruby/object:Game
+player: Jam
+word: longhouse
+corrects:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- e
+misses: []

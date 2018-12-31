@@ -1,0 +1,6 @@
+--- !ruby/object:Game
+player: Jam
+word: adonis
+corrects: []
+misses:
+- e
